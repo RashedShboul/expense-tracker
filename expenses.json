@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "amount": 400.0,
+        "description": "FOODALLTIME",
+        "createdAt": "2024-09-18 14:05:36"
+    },
+    {
+        "id": 3,
+        "amount": 699.0,
+        "description": "CLOTHES",
+        "createdAt": "2024-09-18 14:05:36"
+    },
+    {
+        "id": 7,
+        "amount": 33.0,
+        "description": "XZY",
+        "createdAt": "2024-09-18 14:38:16"
+    },
+    {
+        "id": 8,
+        "amount": 100.0,
+        "description": "hello",
+        "createdAt": "2024-09-19T08:59:24"
+    },
+    {
+        "id": 9,
+        "amount": 5555.0,
+        "description": "CLOTHESLUX",
+        "createdAt": "2024-09-19T09:16:13"
+    }
+]
