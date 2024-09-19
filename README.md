@@ -1,6 +1,7 @@
 # Expense Tracker
 
 A simple command-line application to track your expenses. This project allows you to add, update, delete, list, and summarize expenses, with data stored in a JSON file. You can also export your expenses to a CSV file.
+This is a learning project from: https://roadmap.sh/projects/expense-tracker
 
 ## Features
 
